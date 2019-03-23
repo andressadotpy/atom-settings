@@ -7,3 +7,5 @@
 - minimap: preview of the full source code
 
 - linter-flake8
+
+- platformio-ide-terminal
